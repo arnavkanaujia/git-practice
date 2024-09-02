@@ -1,9 +1,12 @@
 # PLANETS 
 ### ***This file contains all planets*** 
-|languages|tools|
-|---|---|
-|javascript|nodejs|
-|html|markdown|
-|css|scss|
+ `mercury
+  venus
+  earth 
+  mars
+ jupiter
+ saturn 
+ uranus
+ neptune
 
-[github](https://github.com/AcquireDevs/AcquireDevs.git)
+ `
